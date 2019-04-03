@@ -1,0 +1,417 @@
+[
+  {
+    "id": 43,
+    "name": "Swedbank",
+    "emricId": 19,
+    "imgClass": "images-swedbank-color",
+    "code": "SE11200",
+    "tinkId": "swedbank-bankid",
+    "placeHolder": "XXXXX",
+    "clearingNoRegex": "^(7|8)[0-9]{3,4}$",
+    "isMainBank": true
+  },
+  {
+    "id": 41,
+    "name": "Sparbankerna",
+    "emricId": 19,
+    "imgClass": "images-sparbankerna-color",
+    "code": "SE11200",
+    "tinkId": "savingsbank-bankid",
+    "isMainBank": true
+  },
+  {
+    "id": 29,
+    "name": "Nordea",
+    "emricId": 11,
+    "imgClass": "images-nordea-color",
+    "code": "SE11145",
+    "tinkId": "nordea-bankid",
+    "placeHolder": "XXXX",
+    "clearingNoRegex": "^(?!1[023])(?!2[1-9])(?!340)[1-4][0-9]{3}$",
+    "isMainBank": true
+  },
+  {
+    "id": 18,
+    "name": "Handelsbanken",
+    "emricId": 21,
+    "imgClass": "images-handelsbanken-color",
+    "code": "SE11123",
+    "tinkId": "handelsbanken-bankid",
+    "placeHolder": "6XXX",
+    "clearingNoRegex": "^6[0-9]{3}$",
+    "isMainBank": true
+  },
+  {
+    "id": 37,
+    "name": "SEB",
+    "emricId": 17,
+    "imgClass": "images-seb-color",
+    "code": "SE11102",
+    "tinkId": "seb-bankid",
+    "isMainBank": true
+  },
+  {
+    "id": 24,
+    "name": "Länsförsäkringar",
+    "emricId": 10,
+    "imgClass": "images-lansforsakringar-color",
+    "code": "SE11122",
+    "tinkId": "lansforsakringar-bankid",
+    "placeHolder": "XXXX",
+    "clearingNoRegex": "^(340|902)[0-9]$",
+    "isMainBank": true
+  },
+  {
+    "id": 19,
+    "name": "ICA banken",
+    "emricId": 8,
+    "imgClass": "images-icabanken-color",
+    "code": "SE11137",
+    "tinkId": "icabanken-bankid",
+    "isMainBank": true
+  },
+  {
+    "id": 10,
+    "name": "Danske Bank",
+    "emricId": 4,
+    "imgClass": "images-danskebank-color",
+    "code": "SE11610",
+    "tinkId": "danskebank-bankid",
+    "placeHolder": "1XXX",
+    "clearingNoRegex": "^1[2-3][0-9]{2}$",
+    "isMainBank": true
+  },
+  {
+    "id": 38,
+    "name": "Skandiabanken",
+    "emricId": 18,
+    "imgClass": "images-skandiabanken-color",
+    "code": "SE11116",
+    "tinkId": "skandiabanken-ssn-bankid",
+    "isMainBank": true
+  },
+  {
+    "id": 40,
+    "name": "Sparbanken Syd",
+    "emricId": 26,
+    "imgClass": "images-sparbanken-syd-color",
+    "code": "SE12190",
+    "tinkId": "sparbankensyd-bankid",
+    "isMainBank": true
+  },
+  {
+    "id": 1,
+    "name": "Ålandsbanken",
+    "emricId": 20,
+    "imgClass": null,
+    "code": "OTHER",
+    "tinkId": null,
+    "isMainBank": false
+  },
+  {
+    "id": 2,
+    "name": "Amfa Bank",
+    "emricId": 27,
+    "imgClass": null,
+    "code": "OTHER",
+    "tinkId": null,
+    "isMainBank": false
+  },
+  {
+    "id": 3,
+    "name": "Avanza Bank",
+    "emricId": 1,
+    "imgClass": null,
+    "code": "OTHER",
+    "tinkId": null,
+    "isMainBank": false
+  },
+  {
+    "id": 4,
+    "name": "Bank of China (Luxembourg)",
+    "emricId": null,
+    "imgClass": null,
+    "code": "OTHER",
+    "tinkId": null,
+    "isMainBank": false
+  },
+  {
+    "id": 5,
+    "name": "Bank2 Bankaktiebolag",
+    "emricId": null,
+    "imgClass": null,
+    "code": "OTHER",
+    "tinkId": null,
+    "isMainBank": false
+  },
+  {
+    "id": 6,
+    "name": "BlueStep Finans AB",
+    "emricId": 35,
+    "imgClass": null,
+    "code": "OTHER",
+    "tinkId": null,
+    "isMainBank": false
+  },
+  {
+    "id": 7,
+    "name": "BNP Paribas Fortis",
+    "emricId": 28,
+    "imgClass": null,
+    "code": "OTHER",
+    "tinkId": null,
+    "isMainBank": false
+  },
+  {
+    "id": 8,
+    "name": "Calyon Bank",
+    "emricId": null,
+    "imgClass": null,
+    "code": "OTHER",
+    "tinkId": null,
+    "isMainBank": false
+  },
+  {
+    "id": 9,
+    "name": "Citibank",
+    "emricId": 3,
+    "imgClass": null,
+    "code": "OTHER",
+    "tinkId": null,
+    "isMainBank": false
+  },
+  {
+    "id": 11,
+    "name": "DNB Bank",
+    "emricId": null,
+    "imgClass": null,
+    "code": "OTHER",
+    "tinkId": null,
+    "isMainBank": false
+  },
+  {
+    "id": 12,
+    "name": "DnB NOR Bank",
+    "emricId": 5,
+    "imgClass": null,
+    "code": "OTHER",
+    "tinkId": null,
+    "isMainBank": false
+  },
+  {
+    "id": 13,
+    "name": "Ekobanken",
+    "emricId": 36,
+    "imgClass": null,
+    "code": "OTHER",
+    "tinkId": null,
+    "isMainBank": false
+  },
+  {
+    "id": 14,
+    "name": "Erik Penser Bankaktiebolag",
+    "emricId": 29,
+    "imgClass": null,
+    "code": "OTHER",
+    "tinkId": null,
+    "isMainBank": false
+  },
+  {
+    "id": 15,
+    "name": "Forex Bank",
+    "emricId": 6,
+    "imgClass": null,
+    "code": "OTHER",
+    "tinkId": null,
+    "isMainBank": false
+  },
+  {
+    "id": 16,
+    "name": "Fortis Bank",
+    "emricId": null,
+    "imgClass": null,
+    "code": "OTHER",
+    "tinkId": null,
+    "isMainBank": false
+  },
+  {
+    "id": 17,
+    "name": "GE Money Bank",
+    "emricId": 7,
+    "imgClass": null,
+    "code": "OTHER",
+    "tinkId": null,
+    "isMainBank": false
+  },
+  {
+    "id": 20,
+    "name": "IKANO Banken",
+    "emricId": 9,
+    "imgClass": null,
+    "code": "OTHER",
+    "tinkId": null,
+    "isMainBank": false
+  },
+  {
+    "id": 21,
+    "name": "JAK Medlemsbank",
+    "emricId": 34,
+    "imgClass": null,
+    "code": "OTHER",
+    "tinkId": null,
+    "isMainBank": false
+  },
+  {
+    "id": 22,
+    "name": "Lån & Spar Bank Sverige",
+    "emricId": 32,
+    "imgClass": null,
+    "code": "OTHER",
+    "tinkId": null,
+    "isMainBank": false
+  },
+  {
+    "id": 23,
+    "name": "Landshypotek",
+    "emricId": 30,
+    "imgClass": null,
+    "code": "OTHER",
+    "tinkId": null,
+    "isMainBank": false
+  },
+  {
+    "id": 25,
+    "name": "Marginalen Bank",
+    "emricId": 2,
+    "imgClass": null,
+    "code": "OTHER",
+    "tinkId": null,
+    "isMainBank": false
+  },
+  {
+    "id": 26,
+    "name": "MedMera Bank",
+    "emricId": null,
+    "imgClass": null,
+    "code": "OTHER",
+    "tinkId": null,
+    "isMainBank": false
+  },
+  {
+    "id": 27,
+    "name": "Nordax Bank AB",
+    "emricId": 33,
+    "imgClass": null,
+    "code": "OTHER",
+    "tinkId": null,
+    "isMainBank": false
+  },
+  {
+    "id": 28,
+    "name": "Nordax Finans",
+    "emricId": null,
+    "imgClass": null,
+    "code": "OTHER",
+    "tinkId": null,
+    "isMainBank": false
+  },
+  {
+    "id": 30,
+    "name": "Nordnet Bank",
+    "emricId": 13,
+    "imgClass": null,
+    "code": "OTHER",
+    "tinkId": null,
+    "isMainBank": false
+  },
+  {
+    "id": 31,
+    "name": "Nykredit A/S",
+    "emricId": null,
+    "imgClass": null,
+    "code": "OTHER",
+    "tinkId": null,
+    "isMainBank": false
+  },
+  {
+    "id": 32,
+    "name": "Pareto Öhman",
+    "emricId": null,
+    "imgClass": null,
+    "code": "OTHER",
+    "tinkId": null,
+    "isMainBank": false
+  },
+  {
+    "id": 33,
+    "name": "Resurs Bank",
+    "emricId": 14,
+    "imgClass": null,
+    "code": "OTHER",
+    "tinkId": null,
+    "isMainBank": false
+  },
+  {
+    "id": 34,
+    "name": "Riksgälden",
+    "emricId": 31,
+    "imgClass": null,
+    "code": "OTHER",
+    "tinkId": null,
+    "isMainBank": false
+  },
+  {
+    "id": 35,
+    "name": "Royal bank of Scotland",
+    "emricId": 15,
+    "imgClass": null,
+    "code": "OTHER",
+    "tinkId": null,
+    "isMainBank": false
+  },
+  {
+    "id": 36,
+    "name": "SBAB",
+    "emricId": 16,
+    "imgClass": null,
+    "code": "OTHER",
+    "tinkId": null,
+    "isMainBank": false
+  },
+  {
+    "id": 39,
+    "name": "Sparbanken Öresund",
+    "emricId": 25,
+    "imgClass": "images-sparbanken-oresund-color",
+    "code": "SE11142",
+    "tinkId": "sparbankenoresund-bankid",
+    "isMainBank": false
+  },
+  {
+    "id": 42,
+    "name": "Sveriges Riksbank",
+    "emricId": null,
+    "imgClass": null,
+    "code": "OTHER",
+    "tinkId": null,
+    "isMainBank": false
+  },
+  {
+    "id": 44,
+    "name": "Sweden Branch",
+    "emricId": null,
+    "imgClass": null,
+    "code": "OTHER",
+    "tinkId": null,
+    "isMainBank": false
+  },
+  {
+    "id": 45,
+    "name": "Volvofinans Bank",
+    "emricId": null,
+    "imgClass": null,
+    "code": "OTHER",
+    "tinkId": null,
+    "isMainBank": false
+  }
+]
