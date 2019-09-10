@@ -1,7 +1,40 @@
 [
   {
     "productId": "productId",
-    "name": "name",
+    "name": "Shirt",
+    "deliveryDays": [
+      "2019-09-13T00:00:00+01:00",
+      "2019-09-13T00:11:00+01:00",
+      "2019-09-16T00:00:00+01:00"
+    ],
+    "productType": "productType",
+    "daysInAdvance": 3
+  },
+  {
+    "productId": "productId",
+    "name": "Kids Train",
+    "deliveryDays": [
+      "2019-09-13T00:00:00+01:00",
+      "2019-09-13T00:11:00+01:00",
+      "2019-09-16T00:00:00+01:00"
+    ],
+    "productType": "productType",
+    "daysInAdvance": 3
+  },
+  {
+    "productId": "productId",
+    "name": "Kids bed",
+    "deliveryDays": [
+      "2019-09-13T00:00:00+01:00",
+      "2019-09-13T00:11:00+01:00",
+      "2019-09-16T00:00:00+01:00"
+    ],
+    "productType": "productType",
+    "daysInAdvance": 3
+  },
+  {
+    "productId": "productId",
+    "name": "Winter Shoes",
     "deliveryDays": [
       "2019-09-13T00:00:00+01:00",
       "2019-09-13T00:11:00+01:00",
@@ -10,4 +43,5 @@
     "productType": "productType",
     "daysInAdvance": 3
   }
+  
 ]
