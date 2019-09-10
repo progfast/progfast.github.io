@@ -1,0 +1,9 @@
+[
+  {
+    "productId": "productId",
+    "name": "name",
+    "deliveryDays": [],
+    "productType": "productType",
+    "daysInAdvance": 3
+  }
+]
