@@ -7,7 +7,7 @@
       "2019-09-13T00:11:00+01:00",
       "2019-09-16T00:00:00+01:00"
     ],
-    "productType": "productType",
+    "productType": "normal",
     "daysInAdvance": 3
   },
   {
@@ -18,7 +18,7 @@
       "2019-09-13T00:11:00+01:00",
       "2019-09-16T00:00:00+01:00"
     ],
-    "productType": "productType",
+    "productType": "normal",
     "daysInAdvance": 3
   },
   {
@@ -29,7 +29,7 @@
       "2019-09-13T00:11:00+01:00",
       "2019-09-16T00:00:00+01:00"
     ],
-    "productType": "productType",
+    "productType": "external",
     "daysInAdvance": 3
   },
   {
@@ -40,8 +40,7 @@
       "2019-09-13T00:11:00+01:00",
       "2019-09-16T00:00:00+01:00"
     ],
-    "productType": "productType",
+    "productType": "temporary",
     "daysInAdvance": 3
   }
-  
 ]
