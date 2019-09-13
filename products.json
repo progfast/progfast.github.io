@@ -1,17 +1,18 @@
 [
   {
-    "productId": "productId",
+    "productId": "5525177806",
     "name": "Shirt",
     "deliveryDays": [
       "2019-09-18T11:00:00+01:00",
       "2019-09-19T12:11:00+01:00",
-      "2019-09-17T13:00:00+01:00"
+      "2019-09-17T13:00:00+01:00",
+      "2019-09-29T13:00:00+01:00"
     ],
     "productType": "normal",
     "daysInAdvance": 5
   },
   {
-    "productId": "productId",
+    "productId": "9877616673",
     "name": "Kids Train",
     "deliveryDays": [
       "2019-09-13T00:00:00+01:00",
@@ -22,7 +23,7 @@
     "daysInAdvance": 3
   },
   {
-    "productId": "productId",
+    "productId": "9310522789",
     "name": "Kids bed",
     "deliveryDays": [
       "2019-09-13T00:00:00+01:00",
@@ -30,10 +31,10 @@
       "2019-09-16T00:00:00+01:00"
     ],
     "productType": "external",
-    "daysInAdvance": 3
+    "daysInAdvance": 5
   },
   {
-    "productId": "productId",
+    "productId": "0365886784",
     "name": "Winter Shoes",
     "deliveryDays": [
       "2019-09-13T00:00:00+01:00",
@@ -42,5 +43,16 @@
     ],
     "productType": "temporary",
     "daysInAdvance": 1
+  },
+  {
+    "productId": "4018167826",
+    "name": "Winter Scarf",
+    "deliveryDays": [
+      "2019-09-13T00:00:00+01:00",
+      "2019-09-15T00:11:00+01:00",
+      "2019-09-16T00:00:00+01:00"
+    ],
+    "productType": "temporary",
+    "daysInAdvance": 4
   }
 ]
